@@ -8,7 +8,3 @@ variable "role" {
     type = string
     default = "roles/bigquery.dataEditor"  
 }
-variable "project_id" {
-    type = string
-  
-}
