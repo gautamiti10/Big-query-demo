@@ -1,2 +1,2 @@
 dataset_id = "dev_dataset"
-sa = "sa@sa.com"
+sa = "permissiontest@bigquery-demo-452006.iam.gserviceaccount.com"
